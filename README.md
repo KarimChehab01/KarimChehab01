@@ -4,6 +4,6 @@
 
 <h2>👨‍💻 Azure/Cloud Cybersecurity Projects:</h2>
 
-- <a href="https://github.com/KarimChehab01/AzureSOC-Honeynet/"><b>Deploying a Scalable SOC & Honeynet Architecture in Azure</b></a>
+- <a href="https://github.com/KarimChehab01/AzureSOC-Honeynet/"><b>Creating a Live SOC/Honeynet in Azure</b></a>
 
 <h2>🤳 Connect with me:</h2>
