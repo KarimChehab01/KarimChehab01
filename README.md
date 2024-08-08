@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Deploying a Scalable SOC & Honeynet Architecture in Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b href="https://github.com/KarimChehab01/AzureSOC-Honeynet">Deploying a Scalable SOC & Honeynet Architecture in Azure</b>
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
