@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Deploying a Secure SOC & Honeynet in Azure</b>
+- <b>Deploying a Scalable SOC & Honeynet Architecture in Azure</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Advanced Driver Assistance System</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 
 <h2> 🤳 Connect with me:</h2>
